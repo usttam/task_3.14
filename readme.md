@@ -8,26 +8,25 @@ LICENSE: **[MIT](./license.md "More about license")**
 ### Содержание:
 
 1. [Немного о GIT](./contents/aboutgit.md)
-2. Базовые операции
-   - git config
-   - git init
-   - git add
-   - git commit
-   - git clone
-3. Удаленный репозиторий
-   - git fetch
-   - git merge
-   - git pull
-   - git push
-4. Состояние репозитория
-   - git status
-   - git log
-   - git show
-5. Создание, переключение и объединение ветвей
-   - git branch
-   - git checkout
-   - git merge
-   - git rebase       
+2. [Базовые операции](./contents/mainoperation.md)
+   - *[git config](./contents/gitconfig.md)*
+   - *[git init](./contents/gitinit.md)* 
+   - *[git add](./contents/gitadd.md)*
+   - *[git commit](./contents/gitcommit.md)*
+   - *[git clone](./contents/gitclone.md)*
+3. [Удаленный репозиторий](./contents/gitremote.md)
+   - *[git fetch](./contents/gitfetch.md)*
+   - *[git merge](./contents/gitmerge.md)*
+   - *[git pull](./contents/gitpull.md)*
+   - *[git push](./contents/gitpush.md)*
+4. [Состояние репозитория](./contents/repositoryinfo.md) 
+   - *[git status](./contents/gitstatus.md)*
+   - *[git log](./contents/gitlog.md)*
+   - *[git show](./contents/gitshow.md)*
+5. [Создание, переключение и объединение ветвей](./contents/branches.md)
+   - *[git branch](./contents/gitbranch.md)*
+   - *[git checkout](./contents/gitcheckout.md)*
+   - *[git merge / git rebase](./contents/gitrebase.md)*      
 ---
 
 
